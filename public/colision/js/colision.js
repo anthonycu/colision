@@ -3,31 +3,31 @@ var context = canvas.getContext('2d');
 
 window.onload = function() {
     document.addEventListener('keydown', function(e) {
-        if(e.key == 37) {
+        if(e.key == 'ArrowLeft') {
             j.keyLeft = true;
         }
-        if(e.key == 38) {
+        if(e.key == 'ArrowRight') {
             j.keyRight = true;
         }
-        if(e.key == 39) {
+        if(e.key == 'ArrowUp') {
             j.keyUp = true;
         }
-        if(e.key == 40) {
+        if(e.key == 'ArrowDown') {
             j.keyDown = true;
         }
     })
-
+    
     document.addEventListener('keyup', function(e) {
-        if(e.key == 37) {
+        if(e.key == 'ArrowLeft') {
             j.keyLeft = false;
         }
-        if(e.key == 38) {
+        if(e.key == 'ArrowRight') {
             j.keyRight = false;
         }
-        if(e.key == 39) {
+        if(e.key == 'ArrowUp') {
             j.keyUp = false;
         }
-        if(e.key == 40) {
+        if(e.key == 'ArrowDown') {
             j.keyDown = false;
         }
     })
@@ -38,8 +38,8 @@ window.onload = function() {
 }
 
 function Player() {
-    this.x = 190;
-    this.y = 170;
+    this.x = 50;
+    this.y = 50;
     this.w = 80;
     this.h = 50;
     this.vel = 5;
