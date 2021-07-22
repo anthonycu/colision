@@ -13,6 +13,9 @@ La ruta es Public/colision/js/colision.js
 
 ![image](https://user-images.githubusercontent.com/8843773/126709998-801b85e4-0a08-4996-9fe5-ef5cac34f1e9.png)
 
+![image](https://user-images.githubusercontent.com/8843773/126710698-24c243b7-4b6e-40e5-b6db-7ba982bcc917.png)
+
+
 Código:
 
 ![image](https://user-images.githubusercontent.com/8843773/126710608-99e170b9-1e56-49c5-847a-7a7e87e6d2e7.png)
