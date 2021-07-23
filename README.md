@@ -13,9 +13,9 @@ Para probrar funcionalmente ingresar en el siguiente link: http://ec2-3-239-222-
 
 La ruta es Public/colision/js/colision.js
 
-![image](https://user-images.githubusercontent.com/8843773/126709998-801b85e4-0a08-4996-9fe5-ef5cac34f1e9.png)
+![image](https://user-images.githubusercontent.com/8843773/126748751-0132181e-0c19-470c-8802-9af55e64fe08.png)
 
-![image](https://user-images.githubusercontent.com/8843773/126710698-24c243b7-4b6e-40e5-b6db-7ba982bcc917.png)
+![image](https://user-images.githubusercontent.com/8843773/126748775-6cbe0678-84ae-4f55-a791-ba6187c6efdd.png)
 
 
 Código:
