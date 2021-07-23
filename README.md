@@ -9,6 +9,8 @@
 
 <h2>Esta desarrollado la lógica en JavaScript.</h2>
 
+Para probrar funcionalmente ingresar en el siguiente link: http://ec2-3-239-222-218.compute-1.amazonaws.com/
+
 La ruta es Public/colision/js/colision.js
 
 ![image](https://user-images.githubusercontent.com/8843773/126709998-801b85e4-0a08-4996-9fe5-ef5cac34f1e9.png)
